@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Contact](#contact)
 
-[Live Link:](https://molly-hughes.github.io/devchallenges-business-blog-card/).
+[View Live Demo](https://molly-hughes.github.io/devchallenges-business-blog-card/).
 
 ## Overview
 
