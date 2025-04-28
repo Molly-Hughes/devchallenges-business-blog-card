@@ -8,6 +8,8 @@
 - [Features](#features)
 - [Contact](#contact)
 
+[Live Link:](https://molly-hughes.github.io/devchallenges-business-blog-card/).
+
 ## Overview
 
 This project is part of a challenge from DevChallenges.io. The goal was to create a responsive Business Blog Card that matches provided designs for mobile, tablet, and desktop.
