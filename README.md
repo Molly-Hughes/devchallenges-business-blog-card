@@ -3,14 +3,12 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [What I learned](#what-i-learned)
+- [What I learned](#what-i-learned)
 - [Built with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 
 ## Overview
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
 This project is part of a challenge from DevChallenges.io. The goal was to create a responsive Business Blog Card that matches provided designs for mobile, tablet, and desktop.
 
